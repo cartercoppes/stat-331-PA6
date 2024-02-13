@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Johnny Young, Curtic LeQuang, Warren Woo, Carter Coppes"
 format: html
 embed-resources: true
 editor: source
