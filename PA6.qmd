@@ -1,8 +1,10 @@
 ---
 title: "PA6"
+author: "Warren, Curtis, Carter, Johnny"
 format: html
 embed-resources: true
 editor: source
+
 ---
 
 ## Quarto
