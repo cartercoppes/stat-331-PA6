@@ -1,10 +1,9 @@
 ---
 title: "PA6"
-author: "Warren, Curtis, Carter, Johnny"
+author: "Johnny Young, Curtic LeQuang, Warren Woo, Carter Coppes"
 format: html
 embed-resources: true
 editor: source
-
 ---
 
 ## Quarto
